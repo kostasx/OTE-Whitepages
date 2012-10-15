@@ -1,5 +1,5 @@
 Python script that submits telephone number to OTE Whitepages web page (Greece),
-and retrieves name and address. Tested on Mac OS X Lion.
+and retrieves name and address. Tested on Mac OS X Lion & Ubuntu 12.04.
 
 Example usage: python ote.py <telephone number>
 e.g.	       python ote.py 2102233456
