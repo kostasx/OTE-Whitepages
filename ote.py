@@ -2,7 +2,12 @@
 # -*- coding: utf-8 -*-
 
 import sys
+
+## Mac OS X
 from bs4 import BeautifulSoup
+## UBUNTU LINUX
+## from BeautifulSoup import BeautifulSoup
+
 import urllib2
 
 if len(sys.argv) < 2:
