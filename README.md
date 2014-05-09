@@ -1,3 +1,5 @@
+**NOTE** The API used by this script has been deprecated. Please see my latest Node.JS project [here](https://github.com/kostasx/nodejs-greek-whitepages)
+
 Python script that submits telephone number to OTE Whitepages web page (Greece),
 and retrieves name and address. Tested on Mac OS X Lion & Ubuntu 12.04.
 
